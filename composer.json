@@ -8,8 +8,8 @@
   "license": "proprietary",
   "require": {
     "php": ">=8.1",
-    "akki-team/sylius-settable-channel-plugin": "^0.3",
-    "akki-team/sylius-settable-locale-plugin": "^0.1",
+    "akki-team/sylius-settable-channel-plugin": "^1.0",
+    "akki-team/sylius-settable-locale-plugin": "^1.0",
     "sylius/sylius": "^1.11 || ^1.12 || ^1.13"
   },
   "autoload": {
